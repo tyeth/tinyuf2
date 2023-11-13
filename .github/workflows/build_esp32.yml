@@ -74,6 +74,7 @@ jobs:
         - 'adafruit_metro_esp32s3'
         - 'adafruit_qtpy_esp32s3'
         - 'adafruit_qtpy_esp32s3_n4r2'
+        - 'adafruit_qualia_s3_rgb666'
         - 'adafruit_tftexperimenter_esp32s3'
         - 'bpi_leaf_s3'
         - 'bpi_picow_s3'
